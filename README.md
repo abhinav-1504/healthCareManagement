@@ -39,8 +39,8 @@ The **Healthcare Appointment Booking REST API** is a Spring Boot application tha
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
-cd healthcare-appointment-api
+git clone https://github.com/abhinav-1504/healthCareManagement
+cd healthCareManagement
 ```
 
 ### Configure MySQL
